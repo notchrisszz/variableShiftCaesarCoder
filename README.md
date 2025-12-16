@@ -1,7 +1,5 @@
 # Variable Shift Caesar Decoder
 
-Decodificador en **C++** basado en el cifrado César con **desplazamiento variable por carácter**  
-(Versión numérica del cifrado de Vigenère).
 Decoder made in **C++** based on the Caesar Cipher with a variable shift per character
 (I'ts like a numeric modded version of the Vigenere cipher).
 
@@ -9,8 +7,6 @@ Decoder made in **C++** based on the Caesar Cipher with a variable shift per cha
 
 ## 📌 Description
 
-Este programa permite decodificar un texto cifrado usando un desplazamiento distinto para cada carácter.
-El usuario introduce:
 This program lets you decode any ciphered text using a different shift value for each character.
 You introduce:
 1. Ciphered text
