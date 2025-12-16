@@ -1,18 +1,18 @@
-# Variable Shift Caesar Decoder
+# Variable Shift Caesar Coder
 
-Decoder made in **C++** based on the Caesar Cipher with a variable shift per character
+Coder made in **C++** based on the Caesar Cipher with a variable shift per character
 (I'ts like a numeric modded version of the Vigenere cipher).
 
 ---
 
 ## 📌 Description
 
-This program lets you decode any ciphered text using a different shift value for each character.
+This program lets you code any ciphered text using a different shift value for each character.
 You introduce:
-1. Ciphered text
+1. Raw text
 2. A numeric code with the same word spacing and lengths as the text.
 
-The program output the decoded ( original ) text
+The program output the coded text
 
 ---
 
